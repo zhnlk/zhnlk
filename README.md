@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-### 💼**Web Full Stack Developer**  
+### 💼 **Web Full Stack Developer || Quant**  
 
 <br/>  
 👇 Hit in your terminal to connect with me.
@@ -44,7 +44,7 @@ AlpacaBi := &Info {
     Email: "zhnlk@hotmail.com",
     Wechat: "erancc",
     Website: "https://erankk.com",
-    Location: "Guangzhou China"
+    Location: "Shenzhen China"
 }
 ```
 
