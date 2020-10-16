@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-### 💼 ** Full Stack Engineer || Quant**  
+### 💼  Full Stack Engineer || Quant
 
 <br/>  
 👇 Hit in your terminal to connect with me.
