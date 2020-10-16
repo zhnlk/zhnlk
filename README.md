@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 
 
-### 💼 **Web Full Stack Developer || Quant**  
+### 💼 ** Full Stack Engineer || Quant**  
 
 <br/>  
 👇 Hit in your terminal to connect with me.
 
 ```bash
-npx alpaca-bi
+npx zhnlk
 ```
 
 <details>
