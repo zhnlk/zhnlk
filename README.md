@@ -36,10 +36,10 @@ npx zhnlk
 ## 😎 A little more about me...  
 
 ```go
-AlpacaBi := &Info {
+EranCheung := &Info {
     Name: "Eran Cheung",
     Age: 28,
-    Work: "Web Full Stack Developer",
+    Work: "Full Stack Engineer",
     Email: "zhnlk@hotmail.com",
     Wechat: "erancc",
     Website: "https://erankk.com",
