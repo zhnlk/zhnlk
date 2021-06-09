@@ -61,8 +61,8 @@ Lanuage
 
 Framework  
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=Vue.js)
-![Polymer](https://img.shields.io/badge/-Polymer-black?style=flat-square&logo=polymer-project)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 Tools  
